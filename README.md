@@ -6,8 +6,6 @@
 ![SangJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsangjunzzang&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksj0723)](https://solved.ac/ksj0723/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsangjunzzang&layout=compact)
-
 
 # 💪Skills
 ### Languages
