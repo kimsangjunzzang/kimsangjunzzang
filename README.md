@@ -1,7 +1,7 @@
 # KIM SANG JUN (Luffy)
 
 
-![SangJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsangjunzzang&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt)
+![SangJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsangjunzzang&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksj0723)](https://solved.ac/ksj0723/)
 
 
