@@ -1,6 +1,6 @@
 # KIM SANG JUN (Luffy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimsangjunzzang&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/kimsangjunzzang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsangjunzzang&show_icons=true&theme=dracula)
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksj0723"/> 
 
 # 💪Skills
