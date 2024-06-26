@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsangjunzzang&count_private=true&show_icons=true&theme=dracula)
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksj0723"/> 
 
-# 💪Skills
+# 💪Skill
 ### Languages
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
