@@ -1,7 +1,4 @@
 # KIM SANG JUN (Luffy)
-
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksj0723"/> 
-
 # Skill
 ### Languages
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
