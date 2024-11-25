@@ -1,4 +1,4 @@
-![kimsangjunzzang profile](http://mazandi.herokuapp.com/api?handle=ksj0723&theme=cold)
+![kimsangjunzzang profile](http://mazandi.herokuapp.com/api?handle=ksj0723&theme=dark)
 
 ## Skill
 ### Languages
