@@ -1,4 +1,5 @@
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ksj0723&theme=cold)
+![kimsangjunzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsangjunzzang&count_private=true&show_icons=true&theme=onedark)
+![kimsangjunzzang profile](http://mazandi.herokuapp.com/api?handle=ksj0723&theme=dark)
 
 ## Skill
 ### Languages
