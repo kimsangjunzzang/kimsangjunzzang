@@ -12,7 +12,7 @@
 - (2025.06 ~ 2026.02) 부스트캠프 웹・모바일 10기 iOS 맴버십
   - [부스트캠프 웹・모바일 10기 iOS 베이직 회고](https://kimsangjunzzang.tistory.com/112)
   - [부스트캠프 웹・모바일 10기 iOS 챌린지 회고](https://kimsangjunzzang.tistory.com/131)
-  - [부스트캠프 웹・모바일 10기 iOS 맴버십 회고]()
+  - [부스트캠프 웹・모바일 10기 iOS 맴버십 회고(수료 이후 작성 예정)]()
 
 ## Project
 
