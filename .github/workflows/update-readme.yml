@@ -22,7 +22,6 @@ jobs:
 
    - name: Run update script
      run: npm start
-
    - name: Commit README
      run: |
        git config --local user.name 'kimsangjunzzang'       
