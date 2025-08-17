@@ -75,9 +75,7 @@
 | level    | Tool                                 |
 | -------- | ------------------------------------ |
 | Familier | `Xcode`, `VScode`, `GitHub`, `Slack`, `Notion` |
- 
-## Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lmk0347@naver.com)](mailto:lmk0347@naver.com)
+
 ### Latest Blog Posts
 
 - [부스트캠프 iOS 10기 챌린지 회고](https://kimsangjunzzang.tistory.com/131)
