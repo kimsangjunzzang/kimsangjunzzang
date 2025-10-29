@@ -75,12 +75,3 @@
 | level    | Tool                                 |
 | -------- | ------------------------------------ |
 | Familier | `Xcode`, `VScode`, `GitHub`, `Slack`, `Notion` |
-
-### Latest Blog Posts
-
-- [[UIKit] View Controller](https://kimsangjunzzang.tistory.com/134)
-- [부스트캠프 iOS 10기 챌린지 회고](https://kimsangjunzzang.tistory.com/131)
-- [[CS] OSI 7 Layer &amp; TCP/IP](https://kimsangjunzzang.tistory.com/130)
-- [부스트캠프 iOS 10기 챌린지 2~3 주차 회고](https://kimsangjunzzang.tistory.com/129)
-- [[Swift] RunLoop 와 GCD](https://kimsangjunzzang.tistory.com/128)
-
