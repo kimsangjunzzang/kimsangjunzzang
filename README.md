@@ -9,10 +9,10 @@
 - (2022.03 ~ 2022.12) 인하대학교 컴퓨터공학과 40대 학생회장
 - (2024.03 ~ 2024.12) Apple Developer Academy @ POSTECH 3rd - Luffy
   - [Apple Developer Academy 3기를 수료하며](https://kimsangjunzzang.tistory.com/14) 
-- (2025.06 ~ 2026.02) 부스트캠프 웹・모바일 10기 iOS 맴버십
+- (2025.06 ~ 2026.12) 부스트캠프 웹・모바일 10기 iOS 맴버십
   - [부스트캠프 웹・모바일 10기 iOS 베이직 회고](https://kimsangjunzzang.tistory.com/112)
   - [부스트캠프 웹・모바일 10기 iOS 챌린지 회고](https://kimsangjunzzang.tistory.com/131)
-  - [부스트캠프 웹・모바일 10기 iOS 맴버십 회고(수료 이후 작성 예정)]()
+  - [부스트캠프 웹・모바일 10기 iOS 맴버십 회고
 
 ## Project
 
